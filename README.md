@@ -12,10 +12,10 @@ The Data is engineered to have extra features such as `hour`, `quarter`, `month`
 
 ## EDAs
 
-![image](/Users/dexter/ML Projects/TimeSeries-Forecast/Outputs/output1.png)
+![output1](https://github.com/Abstract-Dex/TimeSeries-Forecast/assets/90722648/eac5de53-7aa9-4249-96b5-295fe198bc88)
 
-![image](/Users/dexter/ML Projects/TimeSeries-Forecast/Outputs/output2.png)
+![output2](https://github.com/Abstract-Dex/TimeSeries-Forecast/assets/90722648/6c1b98cd-297e-4e03-82f2-5445292153d6)
 
-![image](/Users/dexter/ML Projects/TimeSeries-Forecast/Outputs/output3.png)
+![output3](https://github.com/Abstract-Dex/TimeSeries-Forecast/assets/90722648/5d4f2c40-d576-4cb5-bd64-880c5cbf3dd2)
 
-![image](/Users/dexter/ML Projects/TimeSeries-Forecast/Outputs/output4.png)
+![output4](https://github.com/Abstract-Dex/TimeSeries-Forecast/assets/90722648/32ea2a34-97dd-4b5f-94a7-10150ade5dc8)
