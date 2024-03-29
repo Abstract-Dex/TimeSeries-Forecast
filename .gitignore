@@ -1,3 +1,5 @@
 Outputs/
 * .png
 .DS_Store
+.arff
+* .csv
